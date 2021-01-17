@@ -16,12 +16,12 @@
 			
 			"AppkeyAppodeals": "eec2fc737ab8df819c3a9551472a236587aa8d3034a376f4",
 			
-			"Cpa": false,
+			"Cpa": true,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://cpabuild.com",
 			
 			"watchNow": false,
-			"Rating": false
+			"Rating": true
 		}
 
 	}
