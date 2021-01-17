@@ -21,7 +21,7 @@
 			"LinkCpa" : "http://cpabuild.com",
 			
 			"watchNow": true,
-			"Rating": false
+			"Rating": true
 		}
 
 	}
