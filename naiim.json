@@ -18,7 +18,7 @@
             "title":"Dark Meadow: The Pact",
             "image":"https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg",
             "color":"#000000",
-            "text_size":"25",
+            "text_size":"10",
             "isLink":false,
             "link_title":"agoujil",
             "setLink":"mohamed",
@@ -35,6 +35,18 @@
             "link_title":"START",
             "setLink":"https://www.google.com",
             "image_link":"",
+            "text":"Dark Meadow : The Pact: The Pact khkyhk uyuiyiuy yuiyuiy yuiyuiy yiuyuiy uiy uiyui iyui yui yuiy yui yuiy uiyuiuiyuiyuiy iyui yui yu yui yuiy  i yuiy iu",
+            "isNative":false
+         },
+         {
+            "title":"James Cameron dévoile",
+            "image":"https://dailygeekshow.com/wp-content/uploads/2019/10/une-image-avatar-1024x538.jpg",
+            "color":"#000000",
+            "text_size":"25",
+            "isLink":true,
+            "link_title":"START",
+            "setLink":"https://www.google.com",
+            "image_link":"https://static.remove.bg/remove-bg-web/0ecd84f6554559cb28c9699e5c5196b290556a5d/assets/start-0e837dcc57769db2306d8d659f53555feb500b3c5d456879b9c843d1872e7baa.jpg",
             "text":"Dark Meadow : The Pact: The Pact khkyhk uyuiyiuy yuiyuiy yuiyuiy yiuyuiy uiy uiyui iyui yui yuiy yui yuiy uiyuiuiyuiyuiy iyui yui yu yui yuiy  i yuiy iu",
             "isNative":false
          }
