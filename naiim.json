@@ -1,7 +1,7 @@
 {
    "GuideData":{
       "AdsController":{
-         "NetworkAds":"startapp",
+         "NetworkAds":"admob",
          
          
          "AdMobId":"pub-3940256099942544",
