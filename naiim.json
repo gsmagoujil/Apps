@@ -16,9 +16,9 @@
          
          "ImageBanner":false,
          "ImageBannerImg":"https://www.bigcommerce.com/blog/wp-content/uploads/2018/12/cpa-marketing-hero-img.jpg",
-         "ImageBannerURL":"https://www.google.com",
+         "ImageBannerURL":"https://play.google.com/store/apps/details?id=com.myplayhome.plushospitalpro",
          
-         "AlertDial":false
+         "AlertDial":true
       },
       "items":[
          {
